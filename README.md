@@ -17,7 +17,7 @@ Project Goals
 Project Area
 The map below shows the Grand Canalscape Phase 3 corridor from 75th Avenue to 47th Avenue.
 
-![Grand Canalscape Phase 3 map](phoenix-canal-transit-ridership-analysis/Images/GrandCanalscapePhase3Map.png)
+![Grand Canalscape Phase 3 map](Images/GrandCanalscapePhase3Map.png)
 
 Source: City of Phoenix Grand Canalscape Phase 3 project materials.
 
@@ -49,7 +49,7 @@ Note: 2025 Q2 and Q3 values were excluded from the main analysis because the dat
 Visualization
 The chart below compares available average ridership patterns for selected Grand Canalscape Phase 3 access stops and selected Highline Lateral comparison stops.
 
-![Ridership trend chart](phoenix-canal-transit-ridership-analysis/Images/RidershipTrendChart.png)
+![Ridership trend chart](Images/RidershipTrendChart.png)
 
 Key Finding
 The current dataset is useful for building the analysis structure and understanding pre-opening ridership patterns, but it is not sufficient to evaluate post-opening ridership changes following Grand Canalscape Phase 3.
